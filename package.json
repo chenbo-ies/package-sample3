@@ -1,0 +1,22 @@
+{
+  "name": "@chenbo-ies/package-sample3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenbo-ies/package-sample3.git"
+  },
+  "author": "chenbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenbo-ies/package-sample3/issues"
+  },
+  "homepage": "https://github.com/chenbo-ies/package-sample3#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@chenbo-ies"
+  }
+}
